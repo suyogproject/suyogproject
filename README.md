@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on learning Data analysis
 - 📫 How to reach me Suyog0203ahirrao@gmail.com
-- 😄 Pronouns: suyog
+- 😄 Pronouns: suyog ravindra ahirrao
 - ⚡ Fun fact: I am person from sky but ground on github 
 
 <!---
